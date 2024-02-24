@@ -1,8 +1,14 @@
-<h1 align="center">Hi 👋, I'm Akshat Dwivedi</h1>
+<h1 align="center">Greetings! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </br>
+I'm Akshat Dwivedi</h1>
 <h3 align="center">I'm a seasoned Fullstack Developer specializing in the MERN stack.</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://app.lottiefiles.com/animation/c128f68c-5561-4c3f-88a7-2391467d05a5"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatd21&label=Profile%20views&color=0e75b6&style=flat" alt="akshatd21" /> </p>
+
+
+<h2> About Me </h2>
+
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+
 
 - 🔭 I’m currently working on [Ayakshama](https://github.com/AkshatD21/Ayakshma)
 
@@ -10,11 +16,11 @@
 
 - 💬 Ask me about **ReactJS, Redux, Node.js**
 
-- 📫 How to reach me **akshatd212003@gmail.com**
+- 📫 How to reach me  - **akshatd212003@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://bit.ly/akshatD-resume)
+- 📄 Know about my experiences - [Resume](https://bit.ly/akshatD-resume)
 
-- ⚡ What makes me fit for versatile roles? **I'm not just a coder; I'm a digital storyteller and trendsetter. I bring brands to life through creative marketing and blogging.**
+- ⚡ Beyond coding, I'm passionate about developing digital and social media marketing strategies. I bring a well-rounded skill set to the forefront, making me an ideal fit for versatile roles.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
