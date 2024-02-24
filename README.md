@@ -10,7 +10,7 @@ I'm Akshat Dwivedi</h1>
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on [Ayakshama](https://github.com/AkshatD21/Ayakshma)
+- 🔭 I’m currently working on [Ayakshma](https://github.com/AkshatD21/Ayakshma)
 
 - 🌱 I’m currently learning **MERN Stack**
 
